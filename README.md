@@ -23,4 +23,4 @@ The goal of this assignment was to apply **user-centered design principles** by:
 - User-centered design process
 - 
 ## Wireframe Preview
-![App Wireframe](SmartScan_Wireframes_ADjurdjevic.pdf)
+!(SmartScan_Wireframes_ADjurdjevic.pdf)
