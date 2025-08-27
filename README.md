@@ -15,7 +15,7 @@ The goal of this assignment was to apply **user-centered design principles** by:
 
 ## Contents
 - [Wireframes](https://github.com/adjur/SmartScan-Wireframe/blob/main/SmartScan_Wireframes_ADjurdjevic.pdf) → exported PNG/PDF of wireframes  
-- [Documentation](./docs) → project write-up and analysis
+- [Documentation](https://github.com/adjur/SmartScan-Wireframe/blob/main/SmartScan%20Write-Up%20and%20Analysis.docx) → project write-up and analysis
   
 ## Skills Demonstrated
 - UX/UI Design Principles  
