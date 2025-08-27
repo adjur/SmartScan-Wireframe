@@ -12,10 +12,6 @@ The goal of this assignment was to apply **user-centered design principles** by:
 - Understanding user needs through personas and interviews
 - Creating simple, intuitive wireframes
 - Planning out navigation and user flow before coding
-  
-## Contents
-- `/wireframes` → exported PNG/PDF of wireframes  
-- `/docs` → project write-up and analysis  
 
 ## Skills Demonstrated
 - UX/UI Design Principles  
