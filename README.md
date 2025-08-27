@@ -24,6 +24,6 @@ The goal of this assignment was to apply **user-centered design principles** by:
 
 - 
 ## Wireframe Preview
-![SmartScan Wireframe Preview](wireframes/home-screen.png)
+![SmartScan Wireframe Preview](https://github.com/adjur/SmartScan-Wireframe/blob/main/SmartScan%20Wireframe%20Preview.png)
 
 [📄 View Full Wireframes (PDF)](SmartScan_Wireframes_ADjurdjevic.pdf)
