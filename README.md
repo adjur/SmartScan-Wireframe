@@ -20,4 +20,7 @@ The goal of this assignment was to apply **user-centered design principles** by:
 ## Skills Demonstrated
 - UX/UI Design Principles  
 - Wireframing & Prototyping (Lucidchart, Figma, or Balsamiq)  
-- User-centered design process  
+- User-centered design process
+- 
+## Wireframe Preview
+![App Wireframe](wireframes/wireframe1.png)
