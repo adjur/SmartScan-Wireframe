@@ -21,6 +21,9 @@ The goal of this assignment was to apply **user-centered design principles** by:
 - UX/UI Design Principles  
 - Wireframing & Prototyping (Lucidchart, Figma, or Balsamiq)  
 - User-centered design process
+
 - 
 ## Wireframe Preview
-!(SmartScan_Wireframes_ADjurdjevic.pdf)
+![SmartScan Wireframe Preview](wireframes/home-screen.png)
+
+[📄 View Full Wireframes (PDF)](SmartScan_Wireframes_ADjurdjevic.pdf)
