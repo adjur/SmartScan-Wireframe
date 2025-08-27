@@ -14,7 +14,7 @@ The goal of this assignment was to apply **user-centered design principles** by:
 - Planning out navigation and user flow before coding
 
 ## Contents
-- [Wireframes](./wireframes) → exported PNG/PDF of wireframes  
+- [Wireframes](https://github.com/adjur/SmartScan-Wireframe/blob/main/SmartScan_Wireframes_ADjurdjevic.pdf) → exported PNG/PDF of wireframes  
 - [Documentation](./docs) → project write-up and analysis
   
 ## Skills Demonstrated
