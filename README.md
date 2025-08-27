@@ -22,7 +22,6 @@ The goal of this assignment was to apply **user-centered design principles** by:
 - Wireframing & Prototyping (Lucidchart, Figma, or Balsamiq)  
 - User-centered design process
 
-- 
 ## Wireframe Preview
 ![SmartScan Wireframe Preview](https://github.com/adjur/SmartScan-Wireframe/blob/main/SmartScan%20Wireframe%20Preview.png)
 
